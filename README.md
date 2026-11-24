@@ -127,6 +127,7 @@ plt.show()
    macro avg       0.98      0.98      0.98       450
 weighted avg       0.98      0.98      0.98       450
 ```
+![MLP Loss Curve](exp5.png)
 
 ## Result
 
